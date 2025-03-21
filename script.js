@@ -1,6 +1,6 @@
 let API_KEY = 'f6fdff531d2d0185f902b7e4849f82f3';
 
-let cityInputField = document.querySelector('input[placeholder="Search Your City"]');
+let cityInputField = document.querySelector('input');
 let searchCityButton = document.querySelector('button.bg-blue-500');
 
 let latitude = 13.0737328;
